@@ -1,0 +1,13 @@
+PING www.goolge.com (142.251.42.3) 56(84) bytes of data.
+64 bytes from bom12s19-in-f3.1e100.net (142.251.42.3): icmp_seq=1 ttl=54 time=22.4 ms
+
+--- www.goolge.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.390/22.390/22.390/0.000 ms
+praveena
+hari
+nishanth
+vaishnai
+sunny
+narendra
+
